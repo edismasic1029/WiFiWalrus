@@ -77,23 +77,5 @@ Instructions on how to build WiFiWalrus into a standalone executable:
 pyinstaller --windowed --onefile --noconfirm --add-data "path/to/assets;./assets" --icon "path/to/icon.ico" main.py
 ```
 
-## About the Creator
-
-WiFiWalrus was developed by Mitansh Chaudhari as part of a Cyber Security and Innovation project at IIT Chicago. This application was built with the aim of enhancing public Wi-Fi safety and user awareness.
-
-### Contact
-For any questions, concerns, or feedback regarding WiFiWalrus, please feel free to reach out:
-
-- **Mitansh Chaudhari**
-- Email: [mchaudhari1@hawk.iit.edu](mailto:mchaudhari1@hawk.iit.edu)
-
-Your input and suggestions are greatly appreciated and will help in further improving this tool.
-
-## License
-
-WiFiWalrus is licensed under the MIT License. This license permits you to use, modify, and distribute the software freely, provided that the original copyright and permission notice are included with any substantial portions of the software.
-
-For the full license text, see the [LICENSE](https://github.com/IPRO497/WiFiWalrus/blob/main/LICENSE.md) file in the GitHub repository.
-
 
 
